@@ -1,0 +1,57 @@
+#Kiril Krushkov
+Á ensku
+
+
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+--- RAM is an acronym for random access memory, a type of computer memory that can be accessed randomly.
+
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+--- ROM is "built-in" computer memory containing data that normally can only be read.
+
+3. Hvað er fyrirbyggjandi viðhald?
+--- The primary goal of maintenance is to avoid or mitigate the consequences of failure of equipment.
+
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+--- A sudden and momentary electric current that flows between two objects.
+
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+--- The internal resistance of an ideal voltage source is zero; it is able to supply or absorb any amount of current.
+
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+--- Verify the complaint, Determine the related symptoms, Analyze the symptoms, Isolate the trouble, Correct the trouble, Check for proper operation.
+
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+--- Close-Ended Questions
+If you can answer a question with only a "yes" or "no" response, then you are answering a close-ended type of question.
+
+Example: Are you happy?
+
+--- Open-Ended Questions
+Open-ended questions are ones that require more than one word answers. The answers could come in the form of a list, a few sentences or something longer such as a speech, paragraph or essay.
+
+Example: What is your favorite memory from childhood?
+
+
+8. Hvað eru jaðartæki?
+--- A computer peripheral is a device that is connected to a computer but is not part of the core computer architecture.
+
+9. Nefndu þrjú dæmi um inntakstæki.
+--- Something like input devices well know as : Mouse, Webcamera, Keyboard, Microphone, USB, Printer and more.
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+Skilaðu svo link á github síðuna þína inn á Innu
+--- My build for a personal great and gaming computer will be this parts for 250k kr.~:
+1. Motherboard - Asus Z170-K 1151 ATX (30.000 kr. The motherboard accept to use hight voltage of CPU well know as overclock on the "K" versions. Also the socket 1151 is more cheaper.)
+2. Case - Corsair Carbide 400C (25.000 kr. To protect of inside dust issues and able to fit more stuff inside.)
+3. Power supply - Corsair RM650x 80P Gold (25.000 kr. The reason why I'm adding extra 5k kr. of the power supply is because to be not noisy when it's on heavey load , and perfect voltage for not overkill.)
+4. CPU - Intel Core i5-7600K 3.8GHz S1151 14nm 6MB (45.000 kr. Perfect and brand new cpu for i5 series with you can overclock it if you want to.)
+5. Fan/s - Cooler Master MasterAir Pro 4 (10.000 Perfect fan to cooldown the CPU when it's on heavy load. Prefer air cooler than liquid coller.)
+6. Video Card - MSI Radeon RX 480 GAMING X 8GB (50.000 kr. Perfect for rendering , gaming and almost everything. One of the best AMD video cards in the world. More cheaper than nvidia , but little more W and temperature.)
+7. RAM - Corsair 16GB DDR4 2x8GB 3200MHz (25.000 kr. You may know why that ? Well... you are student of computer class... You'll need little bit more ram for rendering stuff and working without any issues. 3200Mhz is really great speed and Motherboard support it. Never watch the CPU maximum Mhz support. All the time watched on motherboard.)
+8. CD/DVD Reader *optional*  - Asus DRW-24F1MT 24x SATA DVD (5.000 kr. If you want a dvd driver, cheap and good working.)
+9. HDD - Seagate 2TB 3.5" SATA3 7200RPM 64MB (13.000 kr. Great space and will work great for you.)
+10. SSD - Samsung 250GB 850 EVO (20.000 kr. I'll recommend your OS - Windows system to be there if you want fast boot and almost everything.)
+Alright the total cost of that will be 248.000 kr. + 1.500 kr. for compress if you want , haha. For that money you'll have a beast PC for almost everything :).
