@@ -1,6 +1,6 @@
+#Á ensku
 #Kiril Krushkov
-Á ensku
-
+#TÆK2TÖ05BU
 
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 --- RAM is an acronym for random access memory, a type of computer memory that can be accessed randomly.
